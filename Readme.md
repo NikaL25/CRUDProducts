@@ -19,7 +19,7 @@ CRUDProducts is a .NET Core 8 application that implements full CRUD (Create, Rea
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repository/CRUDProducts.git
+    git clone https://github.com/NikaL25/CRUDProducts.git
     ```
 
 2. Navigate to the project directory:
@@ -46,6 +46,11 @@ CRUDProducts is a .NET Core 8 application that implements full CRUD (Create, Rea
 
 
 ## Database Migrations
+
+Database Setup
+"ConnectionStrings": { "DefaultConnection": "Data Source=DESKTOP-9CHL98U\SQLEXPRESS;Initial Catalog=crudproducts;Integrated Security=True;Encrypt=True;Trust Server Certificate=True" }
+
+dotnet ef database update
 
 If the project uses Entity Framework for database interaction, run the following command to apply the migrations:
 
