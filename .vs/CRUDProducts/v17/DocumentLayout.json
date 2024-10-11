@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{154021FB-E996-4FD7-8953-00640608A7C4}|CRUDProducts.csproj|c:\\users\\user\\desktop\\asp\\crudproducts\\pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154021FB-E996-4FD7-8953-00640608A7C4}|CRUDProducts.csproj|solutionrelative:pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154021FB-E996-4FD7-8953-00640608A7C4}|CRUDProducts.csproj|c:\\users\\user\\desktop\\asp\\crudproducts\\pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{154021FB-E996-4FD7-8953-00640608A7C4}|CRUDProducts.csproj|solutionrelative:pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154021FB-E996-4FD7-8953-00640608A7C4}|CRUDProducts.csproj|c:\\users\\user\\desktop\\asp\\crudproducts\\pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{154021FB-E996-4FD7-8953-00640608A7C4}|CRUDProducts.csproj|solutionrelative:pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154021FB-E996-4FD7-8953-00640608A7C4}|CRUDProducts.csproj|c:\\users\\user\\desktop\\asp\\crudproducts\\pages\\admin\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154021FB-E996-4FD7-8953-00640608A7C4}|CRUDProducts.csproj|solutionrelative:pages\\admin\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_9CHL98U_SQLEXPRESS/crudproducts/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154021FB-E996-4FD7-8953-00640608A7C4}|CRUDProducts.csproj|c:\\users\\user\\desktop\\asp\\crudproducts\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154021FB-E996-4FD7-8953-00640608A7C4}|CRUDProducts.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154021FB-E996-4FD7-8953-00640608A7C4}|CRUDProducts.csproj|c:\\users\\user\\desktop\\asp\\crudproducts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{154021FB-E996-4FD7-8953-00640608A7C4}|CRUDProducts.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\qatvtzmf..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Modules\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modules\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:37:03.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Pages\\Admin\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Pages\\Admin\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T11:36:38.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:18:01.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Pages\\Admin\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Pages\\Admin\\Products\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:17:51.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_9CHL98U_SQLEXPRESS/crudproducts/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T20:15:33.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Modules\\Product.cs",
+              "RelativeDocumentMoniker": "Modules\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Modules\\Product.cs",
+              "RelativeToolTip": "Modules\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:31:31.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T19:27:25.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\CRUDProducts\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Services\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:19:08.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\qatvtzmf..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\qatvtzmf..sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T18:51:55.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
